@@ -6,7 +6,7 @@ This repository is a modified version of [ORB-SLAM3-STEREO-FIXED](https://github
 
 ## Modification
 - Succesfully tested in **Ubuntu 22.04** and **ROS2 humble**(with OpenCV 4.5.4)
-- Update from C++11 to C++14
+- Updated minimum CMake version to 3.5
 
 ## How to build
 Clone the repository:
