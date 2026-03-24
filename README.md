@@ -1,4 +1,4 @@
-# ORB-SLAM3-STEREO-FIXED
+## ORB-SLAM3-STEREO-FIXED
 
 This repository is a modified version of [ORB-SLAM3-STEREO-FIXED](https://github.com/zang09/ORB-SLAM3-STEREO-FIXED)  
 
@@ -14,7 +14,7 @@ Clone the repository:
 git clone https://github.com/cadkimbj/ORB-SLAM3-STEREO-FIXED.git ORB_SLAM3
 ```
 
-Install same required dependencies as original version. Then,  
+Install same required dependencies as original version.
 Execute:
 ```
 cd ORB_SLAM3
