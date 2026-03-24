@@ -1,12 +1,12 @@
 # ORB-SLAM3-STEREO-FIXED
 
-This repository is a modified version of [ORB-SLAM3-STEREO-FIXED](https://github.com/zang09/ORB-SLAM3-STEREO-FIXED)  
+This repository is a updated version of [ORB-SLAM3-STEREO-FIXED](https://github.com/zang09/ORB-SLAM3-STEREO-FIXED)  
 
 --- 
 
 ## Modification
 - Succesfully tested in **Ubuntu 22.04** and **ROS2 humble**(with OpenCV 4.5.4)
-- Updated minimum CMake version to 3.5
+- Updated **minimum CMake version** to **3.5**
 
 ## How to build
 Clone the repository:
