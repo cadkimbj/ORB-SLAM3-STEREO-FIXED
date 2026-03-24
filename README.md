@@ -5,14 +5,13 @@ This repository is a modified version of [ORB-SLAM3-STEREO-FIXED](https://github
 --- 
 
 ## Modification
-- Succesfully tested in **Ubuntu 20.04** and **ROS2 Foxy**(with OpenCV 4.2.0)
+- Succesfully tested in **Ubuntu 22.04** and **ROS2 humble**(with OpenCV 4.5.4)
 - Update from C++11 to C++14
-- Fixed unexpected <span style="color:red">error</span> when start **STEREO** mode with **Rectified** camera type  
 
 ## How to build
 Clone the repository:
 ```
-git clone https://github.com/zang09/ORB-SLAM3-STEREO-FIXED.git ORB_SLAM3
+git clone https://github.com/cadkimbj/ORB-SLAM3-STEREO-FIXED.git ORB_SLAM3
 ```
 
 Install same required dependencies as original version. Then,  
