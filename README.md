@@ -15,6 +15,7 @@ git clone https://github.com/cadkimbj/ORB-SLAM3-STEREO-FIXED.git ORB_SLAM3
 ```
 
 Install same required dependencies as original version.
+
 Execute:
 ```
 cd ORB_SLAM3
